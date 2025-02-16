@@ -8,10 +8,7 @@ This project predicts the future price of crude oil using historical data and a 
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Results](#results)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
